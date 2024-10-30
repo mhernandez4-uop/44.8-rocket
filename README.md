@@ -1,4 +1,4 @@
-# 44.8: Rocket
+# 44.8 Rocket
 
 ## Overview
 This repository contains all the files required for the Rocket Simulation lab. The purpose of this lab is to simulate rocket characteristics using Python classes and enums. Please follow the instructions below to clone the repository, set up your environment, and run the simulation.
