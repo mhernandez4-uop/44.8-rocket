@@ -18,8 +18,8 @@ This repository contains all the files required for the Rocket Simulation lab. T
     To get started, clone this repository to your local machine:
 
     ```python
-    git clone <repository-url>
-    cd <repository-folder>
+    git clone https://github.com/mhernandez4-uop/44.8-rocket.git
+    cd 44.8-rocket
     ```
 
 2. **Run the Simulation**
